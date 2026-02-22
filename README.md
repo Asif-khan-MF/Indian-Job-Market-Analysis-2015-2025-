@@ -3,6 +3,8 @@
 **Project Description:** I analyzed a decade of hiring data using **Excel & Power BI** to decode salary benchmarks. The interactive dashboard reveals a 30% "Tech Premium" in Bangalore and tracks the shift of remote work from a general perk to a senior-only privilege. Empowers job seekers with data-driven career ROI insights.
 
 ![Dashboard Preview](Images/Main_dashboard.png)
+![Dashboard Preview](Images/360_degree_analysis.png)
+![Dashboard Preview](Images/Forecasting.png)
 
 ## ⚙️ Project Type Flags
 - [x] Exploratory Data Analysis (EDA)
